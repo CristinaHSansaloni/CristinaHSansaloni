@@ -1,5 +1,5 @@
 ### Hi, I'm Cris 👋
-I'm a Frontend Developer from Spain, graduate in philosophy and passionate about **web design** and **frontend web development**
+I'm a Frontend Developer from Spain, graduate in Philosophy and passionate about **Web Design** and **Frontend Web Development**
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to **collaborate on any project** 🤝, **gain experience**## **🧠** and **build amazing products**✨ 
