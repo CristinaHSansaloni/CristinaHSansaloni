@@ -14,7 +14,7 @@ I'm a Frontend Developer from Spain, graduate in Philosophy and passionate about
 ### Github Activity 📊:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristinaHSansaloni&show_icons=true&theme=radical)
+![CristinaHSansaloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristinaHSansaloni&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaHSansaloni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
